@@ -25,3 +25,7 @@ p.amr{
 a:hover {
   color: red
 }
+a:visited {
+  color: blue;
+  
+}
