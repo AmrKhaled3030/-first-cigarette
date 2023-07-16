@@ -3,7 +3,9 @@ strong{
   font-weight:100 ;
   font-size: 20px
 }
-
+#bold {
+  font-weight: bold
+}
 
 strong.illnesses{
   color: red;
