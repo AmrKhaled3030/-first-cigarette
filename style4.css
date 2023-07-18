@@ -1,0 +1,38 @@
+strong {
+  color: blue;
+  font-weight: 600;
+  font-size: 20px;
+}
+#bold {
+  font-weight: bold;
+}
+#bold2 {
+  font-weight: bold;
+  font-size : 25px;
+}
+#id1 {
+  color: red;
+  font-size: 30px;
+  width: fit-content;
+
+}
+#id2 {
+  color: goldenrod;
+  font-size: 30px;
+  width: fit-content;
+  
+
+}
+
+
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover{
+  color: blue;
+}
+a:visited {
+  color: blue;
+  
+}
